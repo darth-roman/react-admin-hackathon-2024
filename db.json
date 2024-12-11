@@ -1,39 +1,6 @@
 {
   "people": [
     {
-      "id": 1,
-      "user_name": "Lenette Feathersby",
-      "email": "lfeathersby0@wunderground.com",
-      "gender": "Female",
-      "salary": 35000,
-      "category": "mission-critical",
-      "job": "Ornamental Railings",
-      "familial_sit": "Single",
-      "nccp": "1234567890",
-      "nss": "0123456789",
-      "ent_date": "12/02/2000",
-      "affectation": "Analyst",
-      "leaves": {
-        "count": 2,
-        "leave_name": "Maternity",
-        "type": "Medical",
-        "last_leave": "12/20/2004",
-        "doc_acquired": true,
-        "is_paid": false,
-        "leave_duration_days": 5
-      },
-      "absences": {
-        "is_notified": true,
-        "count_days": 5,
-        "is_justified": false
-      },
-      "extra_hours": {
-        "stress_hours": 1.5,
-        "extra_hours": 5
-      },
-      "days_per_month": 24
-    },
-    {
       "userId": 2,
       "user_name": "John Smith",
       "email": "jsmith1@example.com",
@@ -1457,15 +1424,6 @@
     }
   ],
   "leaves": [
-    {
-      "id": 2,
-      "userId": 3,
-      "employee_name": "Chouchane Oussama",
-      "leave_duration": 2,
-      "leave_start": "12/11/2024",
-      "leave_type": "Personal",
-      "leave_status": "Rejected"
-    },
     {
       "id": 2,
       "userId": 7,
