@@ -11,6 +11,8 @@ import { PayrolCreate } from "./components/payrols/PayrolCreate"
 
 import PeopleIcon from "@mui/icons-material/Groups"
 import PayrolIcon from "@mui/icons-material/Summarize"
+import { LeaveList } from "./components/leaves/LeaveList"
+import { LeaveEdit } from "./components/leaves/EditLeave"
 
 
 function App() {
@@ -20,7 +22,7 @@ function App() {
   
   >
     <Resource 
-    name="people" 
+      name="people" 
       list={PeopleList} 
       create={PeopleCreate} 
       edit={PeopleEdit} 
@@ -34,6 +36,11 @@ function App() {
       edit={PayrolEdit} 
       show={PayrolShow}
       icon={PayrolIcon}
+    />
+    <Resource 
+      name="leaves"
+      list={LeaveList}
+      edit={LeaveEdit}
     />
   </Admin>
 }

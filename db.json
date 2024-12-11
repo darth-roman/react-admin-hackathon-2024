@@ -1431,101 +1431,49 @@
       "ent_date": "01/05/2019"
     },
     {
-      "user_name": "Chouchane Louai",
-      "salaire_base": {
-        "gain_sb": "1000000"
-      },
-      "retenue_ss": {
-        "gain_ss": "0"
-      },
-      "panier": {
-        "gain_panier": "20000"
-      },
-      "transport": {
-        "gain_transport": "40000"
-      },
-      "fonction": "Frontend Dev",
-      "affectation": "Dev Department",
-      "nccp": "0000111122223333",
-      "nss": "9999888877776666",
-      "familial_sit": "Married",
-      "id": 3
-    },
-    {
       "user_name": "Chouchane Oussama",
       "salaire_base": {
-        "gain_sb": "500000"
+        "gain_sb": 120000
       },
       "retenue_ss": {
-        "gain_ss": "0"
+        "gain_ss": 0
       },
       "panier": {
-        "gain_panier": "10000"
+        "gain_panier": 10000
       },
       "transport": {
-        "gain_transport": "0"
+        "gain_transport": 0
       },
-      "fonction": "UI/UX Director",
-      "affectation": "Design Department",
-      "nccp": "5555666622224444",
-      "nss": "77770000",
+      "fonction": "Web Dev",
+      "affectation": "Dev Department",
+      "nccp": "1234566543110",
+      "nss": "123555854645567",
       "familial_sit": "Single",
-      "ent_date": "2023-11-01",
+      "ent_date": "2024-05-16",
+      "retenue_irg": {
+        "gain_irg": null
+      },
       "id": 4
     }
   ],
-  "category_irg": [
+  "leaves": [
     {
-      "id_category_irg": 1,
-      "name_category_irg": "<30.000",
-      "value_category_irg": {
-        "max_value": 20000
-      },
-      "category_irg_retenue": 0
+      "id": 2,
+      "userId": 3,
+      "employee_name": "Chouchane Oussama",
+      "leave_duration": 2,
+      "leave_start": "12/11/2024",
+      "leave_type": "Personal",
+      "leave_status": "Rejected"
     },
     {
-      "id_category_irg": 2,
-      "name_category_irg": ">40.000- <80.000",
-      "value_category_irg": {
-        "min_value": 20001,
-        "max_value": 40000
-      },
-      "category_irg_retenue": 0.23
-    },
-    {
-      "id_category_irg": 3,
-      "name_category_irg": ">160.000 - <320.000",
-      "value_category_irg": {
-        "min_value": 40001,
-        "max_value": 80000
-      },
-      "category_irg_retenue": 0.27
-    },
-    {
-      "id_category_irg": 4,
-      "name_category_irg": ">160.000 - <320.000",
-      "value_category_irg": {
-        "min_value": 80001,
-        "max_value": 160000
-      },
-      "category_irg_retenue": 0.3
-    },
-    {
-      "id_category_irg": 5,
-      "name_category_irg": ">160.000 - <320.000",
-      "value_category_irg": {
-        "min_value": 160001,
-        "max_value": 320000
-      },
-      "category_irg_retenue": 0.33
-    },
-    {
-      "id_category_irg": 6,
-      "name_category_irg": ">320.000",
-      "value_category_irg": {
-        "min_value": 320001
-      },
-      "category_irg_retenue": 0.35
+      "id": 2,
+      "userId": 7,
+      "employee_name": "Chouchane Oussama",
+      "leave_duration": 2,
+      "leave_start": "12/11/2024",
+      "leave_type": "Personal",
+      "leave_status": "Pending"
     }
   ]
 }
