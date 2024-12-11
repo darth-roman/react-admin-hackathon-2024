@@ -1429,6 +1429,49 @@
       "nss": "1234567890",
       "familial_sit": "Married",
       "ent_date": "01/05/2019"
+    },
+    {
+      "user_name": "Chouchane Louai",
+      "salaire_base": {
+        "gain_sb": "1000000"
+      },
+      "retenue_ss": {
+        "gain_ss": "0"
+      },
+      "panier": {
+        "gain_panier": "20000"
+      },
+      "transport": {
+        "gain_transport": "40000"
+      },
+      "fonction": "Frontend Dev",
+      "affectation": "Dev Department",
+      "nccp": "0000111122223333",
+      "nss": "9999888877776666",
+      "familial_sit": "Married",
+      "id": 3
+    },
+    {
+      "user_name": "Chouchane Oussama",
+      "salaire_base": {
+        "gain_sb": "500000"
+      },
+      "retenue_ss": {
+        "gain_ss": "0"
+      },
+      "panier": {
+        "gain_panier": "10000"
+      },
+      "transport": {
+        "gain_transport": "0"
+      },
+      "fonction": "UI/UX Director",
+      "affectation": "Design Department",
+      "nccp": "5555666622224444",
+      "nss": "77770000",
+      "familial_sit": "Single",
+      "ent_date": "2023-11-01",
+      "id": 4
     }
   ],
   "category_irg": [
@@ -1465,7 +1508,7 @@
         "min_value": 80001,
         "max_value": 160000
       },
-      "category_irg_retenue": 0.30
+      "category_irg_retenue": 0.3
     },
     {
       "id_category_irg": 5,
