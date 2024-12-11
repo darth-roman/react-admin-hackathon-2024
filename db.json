@@ -1,0 +1,1488 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "user_name": "Lenette Feathersby",
+      "email": "lfeathersby0@wunderground.com",
+      "gender": "Female",
+      "salary": 35000,
+      "category": "mission-critical",
+      "job": "Ornamental Railings",
+      "familial_sit": "Single",
+      "nccp": "1234567890",
+      "nss": "0123456789",
+      "ent_date": "12/02/2000",
+      "affectation": "Analyst",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Maternity",
+        "type": "Medical",
+        "last_leave": "12/20/2004",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 5
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 5,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 5
+      },
+      "days_per_month": 24
+    },
+    {
+      "userId": 2,
+      "user_name": "John Smith",
+      "email": "jsmith1@example.com",
+      "gender": "Male",
+      "salary": 42000,
+      "category": "customer-focused",
+      "job": "Software Developer",
+      "familial_sit": "Married",
+      "nccp": "2345678901",
+      "nss": "1234567890",
+      "ent_date": "03/15/2005",
+      "affectation": "Developer",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "07/10/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 10
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 2,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 8
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 3,
+      "user_name": "Emily Johnson",
+      "email": "ejohnson2@company.org",
+      "gender": "Female",
+      "salary": 38000,
+      "category": "value-added",
+      "job": "Marketing Specialist",
+      "familial_sit": "Single",
+      "nccp": "3456789012",
+      "nss": "2345678901",
+      "ent_date": "09/22/2010",
+      "affectation": "Specialist",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "02/05/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 3
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 1,
+        "extra_hours": 3
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 4,
+      "user_name": "Michael Brown",
+      "email": "mbrown3@corp.net",
+      "gender": "Male",
+      "salary": 55000,
+      "category": "strategic",
+      "job": "Project Manager",
+      "familial_sit": "Divorced",
+      "nccp": "4567890123",
+      "nss": "3456789012",
+      "ent_date": "06/10/2008",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3.5,
+        "extra_hours": 12
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 5,
+      "user_name": "Sarah Davis",
+      "email": "sdavis4@bizmail.com",
+      "gender": "Female",
+      "salary": 47000,
+      "category": "innovative",
+      "job": "Data Analyst",
+      "familial_sit": "Married",
+      "nccp": "5678901234",
+      "nss": "4567890123",
+      "ent_date": "11/30/2015",
+      "affectation": "Analyst",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Parental",
+        "type": "Personal",
+        "last_leave": "09/15/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 30
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 3,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 21
+    },
+    {
+      "id": 6,
+      "user_name": "Robert Wilson",
+      "email": "rwilson5@mailserver.com",
+      "gender": "Male",
+      "salary": 39000,
+      "category": "mission-critical",
+      "job": "Customer Support",
+      "familial_sit": "Single",
+      "nccp": "6789012345",
+      "nss": "5678901234",
+      "ent_date": "04/18/2018",
+      "affectation": "Support",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "12/01/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 7
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1,
+        "extra_hours": 4
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 7,
+      "user_name": "Jennifer Lee",
+      "email": "jlee6@workmail.net",
+      "gender": "Female",
+      "salary": 51000,
+      "category": "customer-focused",
+      "job": "UX Designer",
+      "familial_sit": "Married",
+      "nccp": "7890123456",
+      "nss": "6789012345",
+      "ent_date": "02/28/2012",
+      "affectation": "Designer",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "03/10/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 7
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 8,
+      "user_name": "William Taylor",
+      "email": "wtaylor7@companyemail.com",
+      "gender": "Male",
+      "salary": 44000,
+      "category": "value-added",
+      "job": "Sales Representative",
+      "familial_sit": "Single",
+      "nccp": "8901234567",
+      "nss": "7890123456",
+      "ent_date": "07/05/2016",
+      "affectation": "Sales",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "08/20/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 5
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 2,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 6
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 9,
+      "user_name": "Elizabeth Anderson",
+      "email": "eanderson8@biznet.org",
+      "gender": "Female",
+      "salary": 59000,
+      "category": "strategic",
+      "job": "Human Resources Manager",
+      "familial_sit": "Divorced",
+      "nccp": "9012345678",
+      "nss": "8901234567",
+      "ent_date": "10/12/2007",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "05/03/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 1
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3,
+        "extra_hours": 10
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 10,
+      "user_name": "David Martinez",
+      "email": "dmartinez9@corpmail.net",
+      "gender": "Male",
+      "salary": 41000,
+      "category": "innovative",
+      "job": "Quality Assurance Tester",
+      "familial_sit": "Single",
+      "nccp": "0123456789",
+      "nss": "9012345678",
+      "ent_date": "01/15/2019",
+      "affectation": "Tester",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 11,
+      "user_name": "Patricia Clark",
+      "email": "pclark10@workdomain.com",
+      "gender": "Female",
+      "salary": 46000,
+      "category": "mission-critical",
+      "job": "Systems Administrator",
+      "familial_sit": "Married",
+      "nccp": "1234567890",
+      "nss": "0123456789",
+      "ent_date": "05/20/2014",
+      "affectation": "Administrator",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "11/08/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 3
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 8
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 12,
+      "user_name": "James Rodriguez",
+      "email": "jrodriguez11@companysite.net",
+      "gender": "Male",
+      "salary": 52000,
+      "category": "customer-focused",
+      "job": "Account Manager",
+      "familial_sit": "Single",
+      "nccp": "2345678901",
+      "nss": "1234567890",
+      "ent_date": "08/03/2011",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "07/15/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 14
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 5
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 13,
+      "user_name": "Linda White",
+      "email": "lwhite12@bizmail.org",
+      "gender": "Female",
+      "salary": 37000,
+      "category": "value-added",
+      "job": "Customer Service Representative",
+      "familial_sit": "Divorced",
+      "nccp": "3456789012",
+      "nss": "2345678901",
+      "ent_date": "03/12/2017",
+      "affectation": "Representative",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "02/28/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 2,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1,
+        "extra_hours": 3
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 14,
+      "user_name": "Richard Harris",
+      "email": "rharris13@corpnet.com",
+      "gender": "Male",
+      "salary": 61000,
+      "category": "strategic",
+      "job": "Financial Analyst",
+      "familial_sit": "Married",
+      "nccp": "4567890123",
+      "nss": "3456789012",
+      "ent_date": "09/01/2009",
+      "affectation": "Analyst",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Paternity",
+        "type": "Personal",
+        "last_leave": "06/15/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 10
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 9
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 15,
+      "user_name": "Susan Lewis",
+      "email": "slewis14@workmail.net",
+      "gender": "Female",
+      "salary": 48000,
+      "category": "innovative",
+      "job": "Product Manager",
+      "familial_sit": "Single",
+      "nccp": "5678901234",
+      "nss": "4567890123",
+      "ent_date": "11/20/2013",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "04/05/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 7
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 6
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 16,
+      "user_name": "Thomas Moore",
+      "email": "tmoore15@companyemail.org",
+      "gender": "Male",
+      "salary": 43000,
+      "category": "mission-critical",
+      "job": "Network Engineer",
+      "familial_sit": "Married",
+      "nccp": "6789012345",
+      "nss": "5678901234",
+      "ent_date": "02/14/2016",
+      "affectation": "Engineer",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "01/10/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 4
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 17,
+      "user_name": "Karen Jackson",
+      "email": "kjackson16@biznet.com",
+      "gender": "Female",
+      "salary": 54000,
+      "category": "customer-focused",
+      "job": "Marketing Manager",
+      "familial_sit": "Divorced",
+      "nccp": "7890123456",
+      "nss": "6789012345",
+      "ent_date": "07/01/2010",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "03/20/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 1
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 2,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3,
+        "extra_hours": 10
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 18,
+      "user_name": "Charles Thompson",
+      "email": "cthompson17@corpmail.net",
+      "gender": "Male",
+      "salary": 39000,
+      "category": "value-added",
+      "job": "Technical Support Specialist",
+      "familial_sit": "Single",
+      "nccp": "8901234567",
+      "nss": "7890123456",
+      "ent_date": "05/15/2018",
+      "affectation": "Specialist",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 21
+    },
+    {
+      "id": 19,
+      "user_name": "Nancy Garcia",
+      "email": "ngarcia18@workdomain.org",
+      "gender": "Female",
+      "salary": 57000,
+      "category": "strategic",
+      "job": "Business Analyst",
+      "familial_sit": "Married",
+      "nccp": "9012345678",
+      "nss": "8901234567",
+      "ent_date": "12/01/2012",
+      "affectation": "Analyst",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "08/10/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 10
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 8
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 20,
+      "user_name": "Daniel Martinez",
+      "email": "dmartinez19@companysite.net",
+      "gender": "Male",
+      "salary": 45000,
+      "category": "innovative",
+      "job": "Software Engineer",
+      "familial_sit": "Single",
+      "nccp": "0123456789",
+      "nss": "9012345678",
+      "ent_date": "09/15/2015",
+      "affectation": "Engineer",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "02/20/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 3
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 7
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 21,
+      "user_name": "Lisa Robinson",
+      "email": "lrobinson20@bizmail.com",
+      "gender": "Female",
+      "salary": 49000,
+      "category": "mission-critical",
+      "job": "Operations Manager",
+      "familial_sit": "Divorced",
+      "nccp": "1234567890",
+      "nss": "0123456789",
+      "ent_date": "03/10/2011",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "05/05/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3.5,
+        "extra_hours": 12
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 22,
+      "user_name": "Mark Wilson",
+      "email": "mwilson21@corpnet.org",
+      "gender": "Male",
+      "salary": 41000,
+      "category": "customer-focused",
+      "job": "Sales Manager",
+      "familial_sit": "Married",
+      "nccp": "2345678901",
+      "nss": "1234567890",
+      "ent_date": "06/22/2014",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "09/01/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 7
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 2,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 5
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 23,
+      "user_name": "Betty Taylor",
+      "email": "btaylor22@workmail.net",
+      "gender": "Female",
+      "salary": 36000,
+      "category": "value-added",
+      "job": "Administrative Assistant",
+      "familial_sit": "Single",
+      "nccp": "3456789012",
+      "nss": "2345678901",
+      "ent_date": "01/05/2019",
+      "affectation": "Assistant",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 21
+    },
+    {
+      "id": 24,
+      "user_name": "George Anderson",
+      "email": "ganderson23@companyemail.com",
+      "gender": "Male",
+      "salary": 62000,
+      "category": "strategic",
+      "job": "Senior Software Engineer",
+      "familial_sit": "Married",
+      "nccp": "4567890123",
+      "nss": "3456789012",
+      "ent_date": "11/15/2008",
+      "affectation": "Engineer",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Paternity",
+        "type": "Personal",
+        "last_leave": "04/10/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 5
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3,
+        "extra_hours": 10
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 25,
+      "user_name": "Margaret Lee",
+      "email": "mlee24@biznet.net",
+      "gender": "Female",
+      "salary": 53000,
+      "category": "innovative",
+      "job": "UX/UI Designer",
+      "familial_sit": "Single",
+      "nccp": "5678901234",
+      "nss": "4567890123",
+      "ent_date": "07/20/2013",
+      "affectation": "Designer",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "03/15/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 6
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 26,
+      "user_name": "Christopher Clark",
+      "email": "cclark25@corpmail.org",
+      "gender": "Male",
+      "salary": 47000,
+      "category": "mission-critical",
+      "job": "IT Support Specialist",
+      "familial_sit": "Divorced",
+      "nccp": "6789012345",
+      "nss": "5678901234",
+      "ent_date": "02/28/2016",
+      "affectation": "Specialist",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "08/05/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 10
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 2,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1,
+        "extra_hours": 4
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 27,
+      "user_name": "Patricia Rodriguez",
+      "email": "prodriguez26@workdomain.com",
+      "gender": "Female",
+      "salary": 58000,
+      "category": "customer-focused",
+      "job": "Customer Success Manager",
+      "familial_sit": "Married",
+      "nccp": "7890123456",
+      "nss": "6789012345",
+      "ent_date": "09/10/2010",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "06/20/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 1
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 8
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 28,
+      "user_name": "Joseph Martinez",
+      "email": "jmartinez27@companysite.org",
+      "gender": "Male",
+      "salary": 40000,
+      "category": "value-added",
+      "job": "Content Writer",
+      "familial_sit": "Single",
+      "nccp": "8901234567",
+      "nss": "7890123456",
+      "ent_date": "04/15/2017",
+      "affectation": "Writer",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "01/25/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 3
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 29,
+      "user_name": "Elizabeth White",
+      "email": "ewhite28@bizmail.net",
+      "gender": "Female",
+      "salary": 55000,
+      "category": "strategic",
+      "job": "Project Coordinator",
+      "familial_sit": "Married",
+      "nccp": "9012345678",
+      "nss": "8901234567",
+      "ent_date": "10/01/2012",
+      "affectation": "Coordinator",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "07/10/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 7
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 2,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 6
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 30,
+      "user_name": "Thomas Harris",
+      "email": "tharris29@corpnet.com",
+      "gender": "Male",
+      "salary": 43000,
+      "category": "innovative",
+      "job": "Data Scientist",
+      "familial_sit": "Single",
+      "nccp": "0123456789",
+      "nss": "9012345678",
+      "ent_date": "06/15/2015",
+      "affectation": "Scientist",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3,
+        "extra_hours": 10
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 31,
+      "user_name": "Susan Jackson",
+      "email": "sjackson30@workmail.org",
+      "gender": "Female",
+      "salary": 50000,
+      "category": "mission-critical",
+      "job": "Database Administrator",
+      "familial_sit": "Divorced",
+      "nccp": "1234567890",
+      "nss": "0123456789",
+      "ent_date": "03/20/2011",
+      "affectation": "Administrator",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "05/15/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 5
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 32,
+      "user_name": "Richard Thompson",
+      "email": "rthompson31@companyemail.net",
+      "gender": "Male",
+      "salary": 59000,
+      "category": "customer-focused",
+      "job": "Senior Account Manager",
+      "familial_sit": "Married",
+      "nccp": "2345678901",
+      "nss": "1234567890",
+      "ent_date": "08/05/2009",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "09/20/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 14
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 8
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 33,
+      "user_name": "Karen Moore",
+      "email": "kmoore32@biznet.com",
+      "gender": "Female",
+      "salary": 38000,
+      "category": "value-added",
+      "job": "Human Resources Assistant",
+      "familial_sit": "Single",
+      "nccp": "3456789012",
+      "nss": "2345678901",
+      "ent_date": "01/10/2018",
+      "affectation": "Assistant",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "02/28/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 21
+    },
+    {
+      "id": 34,
+      "user_name": "Charles Garcia",
+      "email": "cgarcia33@corpmail.org",
+      "gender": "Male",
+      "salary": 52000,
+      "category": "strategic",
+      "job": "Business Development Manager",
+      "familial_sit": "Married",
+      "nccp": "4567890123",
+      "nss": "3456789012",
+      "ent_date": "11/30/2013",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Paternity",
+        "type": "Personal",
+        "last_leave": "04/05/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 5
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3,
+        "extra_hours": 10
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 35,
+      "user_name": "Nancy Lewis",
+      "email": "nlewis34@workdomain.com",
+      "gender": "Female",
+      "salary": 45000,
+      "category": "innovative",
+      "job": "Product Designer",
+      "familial_sit": "Single",
+      "nccp": "5678901234",
+      "nss": "4567890123",
+      "ent_date": "07/15/2016",
+      "affectation": "Designer",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "08/10/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 7
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 2,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 1.5,
+        "extra_hours": 5
+      },
+      "days_per_month": 23
+    },
+    {
+      "id": 36,
+      "user_name": "Daniel Robinson",
+      "email": "drobinson35@companysite.net",
+      "gender": "Male",
+      "salary": 41000,
+      "category": "mission-critical",
+      "job": "Systems Analyst",
+      "familial_sit": "Divorced",
+      "nccp": "6789012345",
+      "nss": "5678901234",
+      "ent_date": "02/20/2015",
+      "affectation": "Analyst",
+      "leaves": {
+        "count": 1,
+        "leave_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "03/15/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 3
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 6
+      },
+      "days_per_month": 22
+    },
+    {
+      "id": 37,
+      "user_name": "Lisa Wilson",
+      "email": "lwilson36@bizmail.org",
+      "gender": "Female",
+      "salary": 56000,
+      "category": "customer-focused",
+      "job": "Customer Experience Manager",
+      "familial_sit": "Married",
+      "nccp": "7890123456",
+      "nss": "6789012345",
+      "ent_date": "09/01/2011",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 2,
+        "leave_name": "Personal Leave",
+        "type": "Personal",
+        "last_leave": "06/10/2023",
+        "doc_acquired": true,
+        "is_paid": false,
+        "leave_duration_days": 1
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2.5,
+        "extra_hours": 8
+      },
+      "days_per_month": 24
+    },
+    {
+      "id": 38,
+      "user_name": "Mark Taylor",
+      "email": "mtaylor37@corpnet.com",
+      "gender": "Male",
+      "salary": 39000,
+      "category": "value-added",
+      "job": "Technical Writer",
+      "familial_sit": "Single",
+      "nccp": "8901234567",
+      "nss": "7890123456",
+      "ent_date": "05/15/2017",
+      "affectation": "Writer",
+      "leaves": {
+        "count": 0,
+        "leave_name": "N/A",
+        "type": "N/A",
+        "last_leave": "N/A",
+        "doc_acquired": false,
+        "is_paid": false,
+        "leave_duration_days": 0
+      },
+      "absences": {
+        "is_notified": false,
+        "count_days": 1,
+        "is_justified": false
+      },
+      "extra_hours": {
+        "stress_hours": 0.5,
+        "extra_hours": 2
+      },
+      "days_per_month": 21
+    },
+    {
+      "id": 39,
+      "user_name": "Betty Anderson",
+      "email": "banderson38@workmail.net",
+      "gender": "Female",
+      "salary": 61000,
+      "category": "strategic",
+      "job": "Senior Project Manager",
+      "familial_sit": "Married",
+      "nccp": "9012345678",
+      "nss": "8901234567",
+      "ent_date": "12/10/2008",
+      "affectation": "Manager",
+      "leaves": {
+        "count": 3,
+        "leave_name": "Annual Leave",
+        "type": "Vacation",
+        "last_leave": "07/20/2022",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 14
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 0,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 3.5,
+        "extra_hours": 12
+      },
+      "days_per_month": 25
+    },
+    {
+      "id": 40,
+      "user_name": "George Martinez",
+      "email": "gmartinez39@companyemail.org",
+      "gender": "Male",
+      "salary": 47000,
+      "category": "innovative",
+      "job": "Machine Learning Engineer",
+      "familial_sit": "Single",
+      "nccp": "0123456789",
+      "nss": "9012345678",
+      "ent_date": "03/05/2014",
+      "affectation": "Engineer",
+      "leaves": {
+        "count": 1,
+        "user_name": "Sick Leave",
+        "type": "Medical",
+        "last_leave": "01/15/2023",
+        "doc_acquired": true,
+        "is_paid": true,
+        "leave_duration_days": 2
+      },
+      "absences": {
+        "is_notified": true,
+        "count_days": 1,
+        "is_justified": true
+      },
+      "extra_hours": {
+        "stress_hours": 2,
+        "extra_hours": 7
+      },
+      "days_per_month": 23
+    }
+  ],
+  "payrols": [
+    {
+      "id": 1,
+      "userId": 2,
+      "user_name": "Chouchane Louai",
+      "salaire_base": {
+        "code_sb": "R30",
+        "label_sb": "SALAIRE DE BASE",
+        "num_base_sb": 24,
+        "taux_sb": 0,
+        "gain_sb": 120000,
+        "retenue_sb": 0
+      },
+      "retenue_ss": {
+        "code_ss": "R510",
+        "label_ss": "RETENUE_SECU_SLE",
+        "num_base_ss": 120000,
+        "taux_ss": 9,
+        "gain_ss": 0,
+        "retenue_ss": 11000
+      },
+      "panier": {
+        "code_panier": "N522",
+        "label_panier": "PANIER(NOMBRE)",
+        "num_base_panier": 0,
+        "taux_panier": 0,
+        "gain_panier": 11000,
+        "retenue_panier": 0
+      },
+      "transport": {
+        "code_transport": "R532",
+        "label_transport": "TRANSPORT",
+        "num_base_transport": 8800,
+        "taux_transport": 0,
+        "gain_transport": 8800,
+        "retenue_transport": 0
+      },
+      "retenue_irg": {
+        "code_irg": "R660",
+        "label_irg": "RETENUE IRG",
+        "num_base_irg": 12900,
+        "taux_irg": 0,
+        "gain_irg": 0,
+        "category_irg": {
+          "categorie_irg_id": 3
+        }
+      },
+      "net_pay": 12555,
+      "fonction": "Administrator",
+      "affectation": "Developer Backend",
+      "nccp": "0123456789",
+      "nss": "1234567890",
+      "familial_sit": "Married",
+      "ent_date": "01/05/2019"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "user_name": "Merouane Mebarek Falouti",
+      "salaire_base": {
+        "code_sb": "R30",
+        "label_sb": "SALAIRE DE BASE",
+        "num_base_sb": 24,
+        "taux_sb": 0,
+        "gain_sb": 250200,
+        "retenue_sb": 0
+      },
+      "retenue_ss": {
+        "code_ss": "R510",
+        "label_ss": "RETENUE_SECU_SLE",
+        "num_base_ss": 120000,
+        "taux_ss": 9,
+        "gain_ss": 0,
+        "retenue_ss": 11000
+      },
+      "panier": {
+        "code_panier": "N522",
+        "label_panier": "PANIER(NOMBRE)",
+        "num_base_panier": 0,
+        "taux_panier": 0,
+        "gain_panier": 0,
+        "retenue_panier": 0
+      },
+      "transport": {
+        "code_transport": "R532",
+        "label_transport": "TRANSPORT",
+        "num_base_transport": 8800,
+        "taux_transport": 0,
+        "gain_transport": 8800,
+        "retenue_transport": 0
+      },
+      "retenue_irg": {
+        "code_irg": "R660",
+        "label_irg": "RETENUE IRG",
+        "num_base_irg": 12900,
+        "taux_irg": 0,
+        "gain_irg": 0,
+        "category_irg": {
+          "categorie_irg_id": 3
+        }
+      },
+      "net_pay": 12555,
+      "fonction": "Administrator",
+      "affectation": "Developer Backend",
+      "nccp": "0123456789",
+      "nss": "1234567890",
+      "familial_sit": "Married",
+      "ent_date": "01/05/2019"
+    }
+  ],
+  "category_irg": [
+    {
+      "id_category_irg": 1,
+      "name_category_irg": "<30.000",
+      "value_category_irg": {
+        "max_value": 20000
+      },
+      "category_irg_retenue": 0
+    },
+    {
+      "id_category_irg": 2,
+      "name_category_irg": ">40.000- <80.000",
+      "value_category_irg": {
+        "min_value": 20001,
+        "max_value": 40000
+      },
+      "category_irg_retenue": 0.23
+    },
+    {
+      "id_category_irg": 3,
+      "name_category_irg": ">160.000 - <320.000",
+      "value_category_irg": {
+        "min_value": 40001,
+        "max_value": 80000
+      },
+      "category_irg_retenue": 0.27
+    },
+    {
+      "id_category_irg": 4,
+      "name_category_irg": ">160.000 - <320.000",
+      "value_category_irg": {
+        "min_value": 80001,
+        "max_value": 160000
+      },
+      "category_irg_retenue": 0.30
+    },
+    {
+      "id_category_irg": 5,
+      "name_category_irg": ">160.000 - <320.000",
+      "value_category_irg": {
+        "min_value": 160001,
+        "max_value": 320000
+      },
+      "category_irg_retenue": 0.33
+    },
+    {
+      "id_category_irg": 6,
+      "name_category_irg": ">320.000",
+      "value_category_irg": {
+        "min_value": 320001
+      },
+      "category_irg_retenue": 0.35
+    }
+  ]
+}
